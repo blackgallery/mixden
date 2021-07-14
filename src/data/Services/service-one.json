@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Creative",
+    "shortDesc": "Creativity is a valuable workplace skill because it can be a useful tool for developing new ideas, increasing efficiency and devising solutions to complex problems.",
+    "description": "<p>Creativity is Our ability to think about a task or a problem in a new or different way, and use the imagination to generate new ideas. Creativity enables use to solve complex problems and find interesting ways to approach tasks. We look at things from a unique perspective , find patterns and make connections to find opportunities. </p> <p> Opportunities for creative thought in the workplace vary from obvious artistic positions to highly technical ones. Generally, anything that involves an “aha” moment is considered creative. Here are some examples of how to display creative thinking in different jobs; \n <li><strong>Artistic Creativity.</strong> </li>Artistically creative tasks might include designing logos, writing advertising copy, creating the packaging for a product, or drafting a phone script for a fundraising drive. <p> <li><strong>Creative Problem-Solving</strong></li> Our creative problem-solver will find new solutions rather than simply identifying and implementing the norm. We might brainstorm new ways to reduce energy use, find new ways to cut costs during a budget crisis, or develop a unique litigation strategy to defend a client.</p> </p>",
+    "icon": "fas fa-lightbulb",
+    "thumb": "creative.gif",
+    "btnText": "Read More",
+    "singleThumb": "creative.gif"
+  },
+  {
+    "id": 2,
+    "title": "Research and Strategy",
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas amet sed at... ",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu . </p> <p>07 Jan 2021</p>",
+    "icon": "fab fa-searchengin",
+    "thumb": "research.gif",
+    "btnText": "Read More",
+    "singleThumb": "research.gif"
+  },
+  {
+    "id": 3,
+    "title": "Marketing",
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas amet sed at... ",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu . </p> <p>07 Jan 2021</p>",
+    "icon": "icon_datareport",
+    "thumb": "marketing.gif",
+    "btnText": "Read More",
+    "singleThumb": "marketing.gif"
+  },
+  {
+    "id": 4,
+    "title": "Printing and Publishing",
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas amet sed at... ",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu . </p> <p>07 Jan 2021</p>",
+    "icon": "fas fa-print",
+    "thumb": "printing.gif",
+    "btnText": "Read More",
+    "singleThumb": "printing.gif"
+  }
+]

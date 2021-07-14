@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Our Vision",
+    "text": "A Global Pinnacle for Creativity, Innovation and Research",
+    "icon": "fas fa-eye"
+  },
+  {
+    "id": 2,
+    "title": "Our Mission",
+    "text": "To provide creative, innovative and effective integrated brand marketing and public relations solutions for our clients",
+    "icon": "fas fa-bullseye"
+  },
+  {
+    "id": 3,
+    "title": "Our Core Values",
+    "text": "Quality,\nIntegrity,\nReliability.",
+    "icon": "fab fa-creative-commons-sa"
+  }
+]

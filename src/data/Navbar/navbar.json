@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/"
+  },
+  {
+    "id": 2,
+    "title": "About",
+    "link": "/about",
+    "subMenu": false
+  },
+  {
+    "id": 3,
+    "title": "Services",
+    "link": "/service",
+    "subMenu": [
+      {
+        "title": "Creative",
+        "link": "/service/creative?id=1"
+      },
+      {
+        "title": "Research and Strategy",
+        "link": "/service/research-and-strategy?id=2"
+      },
+      {
+        "title": "Marketing",
+        "link": "/service/marketing?id=3"
+      },
+      {
+        "title": "Printing and Publishing",
+        "link": "/service/printing-and-publishing?id=4"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Portfolio",
+    "link": "/gallery",
+    "subMenu": false
+  },
+  {
+    "id": 5,
+    "title": "Blog",
+    "link": "/blog",
+    "subMenu": [
+      {
+        "title": "Blog Page",
+        "link": "/blog"
+      },
+      {
+        "title": "Single Blog",
+        "link": "/blog/new-business-strategy?id=1"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Team",
+    "link": "/team"
+  },
+  {
+    "id": 7,
+    "title": "Contact",
+    "link": "/contact"
+  }
+]

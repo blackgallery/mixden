@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Creativity",
+    "text": "We bring our diverse background of advertising, design, branding, public relations, research and strategic planning to work for your company. Not only will your materials look great – they will get results.\n\n",
+    "icon": "fas fa-brain"
+  },
+  {
+    "id": 2,
+    "title": "Our Expertise",
+    "text": "First Impressions is comprised of specialists with corporate and agency experience that hail from various backgrounds. As such, First Impressions will never assign second-tier support staff to any account.",
+    "icon": "fas fa-user-tie"
+  },
+  {
+    "id": 3,
+    "title": "Meeting Deadlines",
+    "text": "The progress and quality of our work ethics depend on efficiency and the ability to finish work on time. If you are able to finish your tasks before the scheduled deadlines, that is a big indicator of our long term success.",
+    "icon": "fas fa-business-time"
+  },
+  {
+    "id": 4,
+    "title": "Pricing",
+    "text": "Our prices are competitive and fair. There are no surprise bills. Any unexpected or additional expenses must be pre-approved by you. That’s how we would like to be treated, and that is how our clients are treated.\n\n",
+    "icon": "fas fa-money-bill-wave"
+  }
+]

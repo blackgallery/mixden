@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to <br> <span> Mixden tours and Travel</span> ",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sed dapibus enim sit amet pellentesque imperdiet nibh tortor fringilla tortor eu sodales leo augue eget justo. ",
+    "bg": "slider1.jpg",
+    "btnText": "learn More",
+    "btnLink": "/about"
+  },
+  {
+    "id": 2,
+    "title": "Contact Us </span>Mixden <br> tours and Travel",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sed dapibus enim sit amet pellentesque imperdiet nibh tortor fringilla tortor eu sodales leo augue eget justo. ",
+    "bg": "slider2.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "/contact"
+  }
+]
